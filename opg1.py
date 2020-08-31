@@ -1,4 +1,4 @@
 # Hei å
 # hopp
 
-print("Hallo Norge!")
+print("Hei Norge!")
